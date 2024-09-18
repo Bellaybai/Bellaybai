@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there 👋 I am Yun Bai
 
 - 😄 Pronouns: She/Her
 - 🔭 Experience: Software Engineer Intern
